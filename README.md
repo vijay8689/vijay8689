@@ -65,6 +65,7 @@ I'm a **SDET Lead Software Engineer** with over **14 years** of experience craft
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-00C7B7?style=for-the-badge&logo=databricks&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### ⚙️ DevOps & CI/CD
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
