@@ -142,16 +142,6 @@ I specialize in building scalable automation solutions across UI, API, microserv
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=vijay8689&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" alt="vijay8689 trophies"/>
-
-</div>
-
 ---
 
 <!-- ACTIVITY GRAPH -->
