@@ -15,7 +15,7 @@
   <h1>Hey there, I'm K Vijay Kumar</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=SDET+Lead+%7C+Software+Engineer+in+Test;14%2B+Years+Breaking+%26+Building+Software;Automation+Architect+%7C+AI+Testing+Pioneer;Turning+Bugs+Into+Features+Since+2010+%F0%9F%98%84" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=SDET+Lead+%7C+Software+Engineer+in+Test;14%2B+Years+Breaking+%26+Building+Software;Automation+Architect+%7C+AI+Testing+Pioneer;Turning+Bugs+Into+Features+Since+2011+%F0%9F%98%84" alt="Typing SVG" />
   </a>
 
   <br/>
